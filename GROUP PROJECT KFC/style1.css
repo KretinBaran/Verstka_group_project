@@ -32,7 +32,7 @@ html, body {
 .background-layer-2 {
   width: 100%;
   height: 100%;
-  background: url("../images/v43_3.png");
+  background: url("./images/v43_3.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -93,7 +93,7 @@ html, body {
 .header-logo-basket {
   width: 73px;
   height: 50px;
-  background: url("../images/281-2819330_fried-chicken-free-icon-fried-chicken-icon-Photoroom 3.svg");
+  background: url("./images/281-2819330_fried-chicken-free-icon-fried-chicken-icon-Photoroom 3.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -147,7 +147,7 @@ html, body {
 .header-image {
   width: 480px;
   height: 85px;
-  background: url("../images/v31_2.png");
+  background: url("./images/v31_2.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -161,7 +161,7 @@ html, body {
 .header-image-layer-1 {
   width: 480px;
   height: 85px;
-  background: url("../images/v26_14.png");
+  background: url("./images/v26_14.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -175,7 +175,7 @@ html, body {
 .header-image-layer-2 {
   width: 480px;
   height: 85px;
-  background: url("../images/v26_15.png");
+  background: url("./images/v26_15.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -201,7 +201,7 @@ html, body {
 .header-image-layer-3 {
   width: 480px;
   height: 85px;
-  background: url("../images/v26_17.png");
+  background: url("./images/v26_17.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -216,7 +216,7 @@ html, body {
 .header-image-line {
   width: 20px;
   height: 7px;
-  background: url("../images/v26_18.png");
+  background: url("./images/v26_18.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -231,7 +231,7 @@ html, body {
 .header-image-text {
   width: 42px;
   height: 25px;
-  background: url("../images/v26_19.png");
+  background: url("./images/v26_19.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -307,7 +307,7 @@ html, body {
 
 .delivery-title {
   width: 786px;
-  color: url("../images/v26_23.png");
+  color: url("/images/v26_23.png");
   position: absolute;
   top: 120px;
   left: -786px;
